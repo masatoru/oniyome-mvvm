@@ -86,8 +86,8 @@
     </ApplicationDefinition>
     <Compile Include="BooleanToVisibilityConverter .cs" />
     <Compile Include="StringFormatToImageSourceConverter.cs" />
-    <Compile Include="Model\おれModel.cs" />
-    <Compile Include="ViewModel\鬼嫁ViewModel.cs" />
+    <Compile Include="Model\OreModel.cs" />
+    <Compile Include="ViewModel\OniyomeVM.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
