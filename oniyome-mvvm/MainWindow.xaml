@@ -18,7 +18,7 @@
         <DataTemplate x:Key="俺の指ViewTemplate" DataType="{x:Type md:指}">
             <StackPanel Orientation="Horizontal">
                 <TextBlock Text="{Binding どの指}"/>
-                <Image Source="../Images/指.jpg" Width="50" 
+                <Image Source="../Images/yubi.jpg" Width="50" 
                       Visibility="{Binding Path=ネイル済み, Converter={StaticResource BooleanToVisibilityConverter}}" />
             </StackPanel>
         </DataTemplate>

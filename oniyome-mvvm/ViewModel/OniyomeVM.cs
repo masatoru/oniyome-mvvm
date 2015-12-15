@@ -35,12 +35,12 @@ namespace oniyome.ViewModel
 			switch (指の数)
 			{
 				case 3:
-					俺.画像 = "起きてる2";
+					俺.画像 = "okiteru2";
 					break;
 				case 5:
 					嫁.喋る = "寝てんじゃねえよゴラァ！！";
-					嫁.画像 = "鬼嫁";
-					俺.画像 = "寝てる";
+					嫁.画像 = "oniyome";
+					俺.画像 = "neteru";
 					俺.喋る = "zzzzzzzzzzz";
 					break;
 			}
@@ -53,9 +53,9 @@ namespace oniyome.ViewModel
 			嫁 = new 俺か嫁();
 
 			嫁.喋る = "寝ないでよ";
-			嫁.画像 = "塗る";
+			嫁.画像 = "nuru";
 			俺.喋る = "大丈夫です、" + Environment.NewLine + "起きてます。";
-			俺.画像 = "起きてる";
+			俺.画像 = "okiteru";
 		}
 	}
 }

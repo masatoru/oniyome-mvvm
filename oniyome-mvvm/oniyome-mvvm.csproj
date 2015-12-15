@@ -134,22 +134,22 @@
     <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\起きてる.jpg" />
+    <Resource Include="Images\okiteru.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\起きてる2.jpg" />
+    <Resource Include="Images\okiteru2.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\鬼嫁.jpg" />
+    <Resource Include="Images\oniyome.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\寝てる.jpg" />
+    <Resource Include="Images\neteru.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\塗る.jpg" />
+    <Resource Include="Images\nuru.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\指.jpg" />
+    <Resource Include="Images\yubi.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
